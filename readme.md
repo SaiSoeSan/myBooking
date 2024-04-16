@@ -1,7 +1,7 @@
 # Booking and Reservations
 
 
-This is a repository for my booking and reservation project which is developed while I am learning goland programming.
+This is a repository for my booking and reservation project which is developed while I am learning golang programming.
 
 - Build with Go Version 1.15
 - Uses the [chi router](https://github.com/go-chi/chi/v5)
